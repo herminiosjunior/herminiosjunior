@@ -37,7 +37,7 @@
 
   
 ### Studying in this moment:
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Docker]([https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117](https://camo.githubusercontent.com/1d7a43e545ff2284b4fd7bc62d08dac487c6af1fc33a06fc4e4bc202261c6467/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3232323232323f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d463744463145))&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
